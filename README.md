@@ -1,6 +1,6 @@
 # TimePiece
 [![TimePiece](https://img.shields.io/badge/TimePiece-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/TimePiece/index.html)](https://shivam584.github.io/TimePiece/index.html) 
-[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=#)](https:#)
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=/LICENSE)](/LICENSE)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/TimePiece/index.html)](https://shivam584.github.io/TimePiece/index.html)
 <p align="center">
   <img width="100%" src="MediaFiles/Screenshot (344).png">
@@ -9,7 +9,7 @@
 This is a highly responsive TimePiece website powered by HTML , CSS and Javascript that provides main features you'd expect from a world clock, such as viewing the date and time of different countries timezones.
 
 ## Table of Contents
-* [Introduction](https://github.com/shivam584/TimePiecet#introduction)
+* [Introduction](https://github.com/shivam584/TimePiecet#Introduction)
 * [Screenshots](https://github.com/shivam584/TimePiecet#screenshots)
 * [How to access?](https://github.com/shivam584/TimePiecet#How-to-access)
 * [Features](https://github.com/shivam584/TimePiece#-features)
@@ -35,7 +35,7 @@ This is a day to day useful world-clock website to view time and date of various
 </p>
 
 ## How to access
-As this is website you can use it by simply visiting this link<b> : </b>[https:#](https://shivam584.github.io/TimePiece/index.html).<br><br>
+As this is website you can use it by simply visiting this link<b> : </b>[https://shivam584.github.io/TimePiece/index.html](https://shivam584.github.io/TimePiece/index.html).<br><br>
  But as a developer you might be interested to work on it or see it running in your local system. For that just have to clone this repository by
 
         git clone https://shivam584.github.io/TimePiece.git
