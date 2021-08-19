@@ -1,7 +1,7 @@
 # TimePiece
-[![TimePiece](https://img.shields.io/badge/TimePiece-v1.0.0-pink?labelColor=black&style=flat&link=https:#/)](https:#) 
+[![TimePiece](https://img.shields.io/badge/TimePiece-v1.0.0-pink?labelColor=black&style=flat&link=https://shivam584.github.io/TimePiece/index.html)](https://shivam584.github.io/TimePiece/index.html) 
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=#)](https:#)
-[![website](https://img.shields.io/badge/website-up-red?style=flat&link=https:#)](https:#)
+[![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/TimePiece/index.html)](https://shivam584.github.io/TimePiece/index.html)
 <p align="center">
   <img width="370" src="MediaFiles/Screenshot (344).png">
 </p>
@@ -34,11 +34,11 @@ This is a day to day useful world-clock website to view time and date of various
   <img src="MediaFiles/Screenshot (348).png" width="200" /> 
 </p>
 
-## How to access ?
-As this is website you can use it by simply visiting this link<b> : </b>[https:#](https:#).<br><br>
+## How to access
+As this is website you can use it by simply visiting this link<b> : </b>[https:#](https://shivam584.github.io/TimePiece/index.html).<br><br>
  But as a developer you might be interested to work on it or see it running in your local system. For that just have to clone this repository by
 
-        git clone [ url ]
+        git clone https://shivam584.github.io/TimePiece.git
 
 ## 🚀 Features
 ### Current Features
