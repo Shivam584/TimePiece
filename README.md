@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green?style=flat&link=#)](https:#)
 [![website](https://img.shields.io/badge/website-up-red?style=flat&link=https://shivam584.github.io/TimePiece/index.html)](https://shivam584.github.io/TimePiece/index.html)
 <p align="center">
-  <img width="370" src="MediaFiles/Screenshot (344).png">
+  <img width="100%" src="MediaFiles/Screenshot (344).png">
 </p>
 
 This is a highly responsive TimePiece website powered by HTML , CSS and Javascript that provides main features you'd expect from a world clock, such as viewing the date and time of different countries timezones.
@@ -26,12 +26,12 @@ This is a day to day useful world-clock website to view time and date of various
 
 ## Screenshots
 <p float="left" align="center">
-  <img src="MediaFiles/Screenshot (345).png" width="200" />
-  <img src="MediaFiles/Screenshot (346).png" width="200" /> 
+  <img src="MediaFiles/Screenshot (345).png" width="300" />
+  <img src="MediaFiles/Screenshot (346).png" width="300" /> 
 </p>
 <p float="left" align="center">
-  <img src="MediaFiles/Screenshot (347).png" width="200" />
-  <img src="MediaFiles/Screenshot (348).png" width="200" /> 
+  <img src="MediaFiles/Screenshot (347).png" width="300" />
+  <img src="MediaFiles/Screenshot (348).png" width="300" /> 
 </p>
 
 ## How to access
