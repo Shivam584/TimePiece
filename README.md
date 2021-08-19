@@ -9,7 +9,7 @@
 This is a highly responsive TimePiece website powered by HTML , CSS and Javascript that provides main features you'd expect from a world clock, such as viewing the date and time of different countries timezones.
 
 ## Table of Contents
-* [Introduction](https://github.com/shivam584/TimePiecet/blob/main/README.md#Introduction)
+* [Introduction](https://github.com/Shivam584/TimePiece/blob/main/README.md#introduction)
 * [Screenshots](https://github.com/shivam584/TimePiecet/blob/main/README.md#screenshots)
 * [How to access?](https://github.com/shivam584/TimePiecet/blob/main/README.md#How-to-access)
 * [Features](https://github.com/shivam584/TimePiece/blob/main/README.md#-features)
