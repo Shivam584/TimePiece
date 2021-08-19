@@ -9,16 +9,16 @@
 This is a highly responsive TimePiece website powered by HTML , CSS and Javascript that provides main features you'd expect from a world clock, such as viewing the date and time of different countries timezones.
 
 ## Table of Contents
-* [Introduction](https://github.com/shivam584/TimePiecet#Introduction)
-* [Screenshots](https://github.com/shivam584/TimePiecet#screenshots)
-* [How to access?](https://github.com/shivam584/TimePiecet#How-to-access)
-* [Features](https://github.com/shivam584/TimePiece#-features)
-  * [Current Features](https://github.com/shivam584/TimePiece#current-features)
-  * [Features to add](https://github.com/shivam584/TimePiece#features-to-add)
-  * [Feature request](https://github.com/shivam584/TimePiece#-feature-request)
-* [Technologies and tools used](https://github.com/shivam584/TimePiece#technologies-and-tools-used)
-* [Bug Reporting](https://github.com/shivam584/TimePiece#-bug-reporting)
-* [License](https://github.com/shivam584/TimePiece#-license)
+* [Introduction](https://github.com/shivam584/TimePiecet/blob/main/README.md#Introduction)
+* [Screenshots](https://github.com/shivam584/TimePiecet/blob/main/README.md#screenshots)
+* [How to access?](https://github.com/shivam584/TimePiecet/blob/main/README.md#How-to-access)
+* [Features](https://github.com/shivam584/TimePiece/blob/main/README.md#-features)
+  * [Current Features](https://github.com/shivam584/TimePiece/blob/main/README.md#current-features)
+  * [Features to add](https://github.com/shivam584/TimePiece/blob/main/README.md#features-to-add)
+  * [Feature request](https://github.com/shivam584/TimePiece/blob/main/README.md#-feature-request)
+* [Technologies and tools used](https://github.com/shivam584/TimePiece/blob/main/README.md#technologies-and-tools-used)
+* [Bug Reporting](https://github.com/shivam584/TimePiece/blob/main/README.md#-bug-reporting)
+* [License](https://github.com/shivam584/TimePiece/blob/main/README.md#-license)
 
 
 ## Introduction
