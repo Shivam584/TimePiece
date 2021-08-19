@@ -10,15 +10,15 @@ This is a highly responsive TimePiece website powered by HTML , CSS and Javascri
 
 ## Table of Contents
 * [Introduction](https://github.com/Shivam584/TimePiece/blob/main/README.md#introduction)
-* [Screenshots](https://github.com/shivam584/TimePiecet/blob/main/README.md#screenshots)
-* [How to access?](https://github.com/shivam584/TimePiecet/blob/main/README.md#How-to-access)
-* [Features](https://github.com/shivam584/TimePiece/blob/main/README.md#-features)
-  * [Current Features](https://github.com/shivam584/TimePiece/blob/main/README.md#current-features)
-  * [Features to add](https://github.com/shivam584/TimePiece/blob/main/README.md#features-to-add)
-  * [Feature request](https://github.com/shivam584/TimePiece/blob/main/README.md#-feature-request)
-* [Technologies and tools used](https://github.com/shivam584/TimePiece/blob/main/README.md#technologies-and-tools-used)
-* [Bug Reporting](https://github.com/shivam584/TimePiece/blob/main/README.md#-bug-reporting)
-* [License](https://github.com/shivam584/TimePiece/blob/main/README.md#-license)
+* [Screenshots](https://github.com/Shivam584/TimePiece/blob/main/README.md#screenshots)
+* [How to access?](https://github.com/Shivam584/TimePiece/blob/main/README.md#How-to-access)
+* [Features](https://github.com/Shivam584/TimePiece/blob/main/README.md#-features)
+  * [Current Features](https://github.com/Shivam584/TimePiece/blob/main/README.md#current-features)
+  * [Features to add](https://github.com/Shivam584/TimePiece/blob/main/README.md#features-to-add)
+  * [Feature request](https://github.com/Shivam584/TimePiece/blob/main/README.md#-feature-request)
+* [Technologies and tools used](https://github.com/Shivam584/TimePiece/blob/main/README.md#technologies-and-tools-used)
+* [Bug Reporting](https://github.com/Shivam584/TimePiece/blob/main/README.md#-bug-reporting)
+* [License](https://github.com/Shivam584/TimePiece/blob/main/README.md#-license)
 
 
 ## Introduction
